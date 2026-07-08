@@ -118,40 +118,15 @@ Compared discount strategies across different regions to identify the most profi
 
 ---
 
-# 📊 Dashboard
+## 📊 Interactive Dashboard
 
-The Tableau dashboard includes:
+Explore the interactive Tableau dashboard for the Smart Discounting Analysis project:
 
-- Monthly Profit vs. Discount
-- Category Profit vs. Discount
-- Quarterly Profit vs. Discount
-- Discount Threshold Analysis
-- Regional Discount Effectiveness
+**Tableau Public Dashboard:** https://public.tableau.com/views/discounting-superstoredataset/Dashboard1
 
+You can interact with the visualizations to explore monthly, quarterly, category-wise, and discount-performance insights.
 ---
 
-# 📁 Repository Structure
-
-```
-Smart-Discounting-Analysis/
-│
-├── README.md
-├── Smart_Discounting_Report.pdf
-├── SQL/
-│   └── SQL_Queries.sql
-├── Tableau/
-│   └── Smart_Discounting_Dashboard.twbx
-├── Images/
-│   ├── Monthly_Profit_vs_Discount.png
-│   ├── Category_Profit_vs_Discount.png
-│   ├── Quarterly_Profit_vs_Discount.png
-│   ├── Discount_Threshold_Analysis.png
-│   └── Regional_Discount_Effectiveness.png
-└── Dataset/
-    └── Sample_Superstore.csv
-```
-
----
 
 # 🚀 Skills Demonstrated
 
